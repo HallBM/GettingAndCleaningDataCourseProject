@@ -71,6 +71,7 @@ FinalTidyTable = aggregate(. ~Subject + Action, mstd_table, mean)
 FinalTidyTable = FinalTidyTable[order(FinalTidyTable$Subject),]
 
 #output tidy tables
-write.table(mstd_table, "Tidy Table_Raw Compiled Data.txt", row.names = FALSE)
 write.table(FinalTidyTable,"Tidy Table_Mean for Subject and Action.txt", row.names = FALSE)
+
+
 
