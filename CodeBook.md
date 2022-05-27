@@ -1,5 +1,12 @@
 ## Codebook for GettingAndCleaningDataCourseProject
 
+# Source of data (run_analysis.R script combines test and training data sets)
+The compressed data analyzed in this project can be found here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
+
+# Description of data
+A full description is available at the site where the data was obtained: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones  
+
+
 # This code book describes the tidy table output of the code provided by run_analysis: 
 "Tidy Table_Mean for Subject and Action.txt"
 
