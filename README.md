@@ -11,7 +11,7 @@
 
 ## Files 
 # README.md : Description of project and file information.
-# CodeBook.md : Description of code, including variables, data manipulations, and final output table.
+# CodeBook.md : Description of variables in the final table.
 # run_analysis.R : Provides script for extracting, compiling, processing and analyzing the data. The R script performs the following:
 * Merges the training and the test sets to create one data set.
 * Extracts only the measurements on the mean and standard deviation for each measurement. 
